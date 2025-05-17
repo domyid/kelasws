@@ -46,7 +46,7 @@ Perhatikan gambar dibawah ini, gambar berikut adalah contoh bahwa tugas telah si
     <img src="https://github.com/user-attachments/assets/5d115771-b133-492a-b905-c5481da3a509"></p>
  
 - Dan jangan lupa untuk pilih kelas kalian
-*JIKA SALAH INPUT KELAS, DILUAR KENDALI SAYA, KALIAN HARUS MENGULANGI LAGI POMOKIT*
+- *JIKA SALAH INPUT KELAS, DILUAR KENDALI SAYA, KALIAN HARUS MENGULANGI LAGI POMOKIT*
 
 - Contoh jika pengiriman tugas telah selesai:
 
