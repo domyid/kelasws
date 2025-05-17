@@ -6,30 +6,23 @@ Tata Cara:
 - Lengkapi data pribadi terlebih dahulu di https://www.do.my.id/dashboard/#profile/accounts, input: NPM, Nomor WA, Nama, Username Github
 
    <p align="center">
-    <img src="https://github.com/user-attachments/assets/c04c603e-1192-4a7d-a000-18b20589d9c1" width="300"></p
-
-- JIKA GAMBAR TERLALU KECIL BISA DI ZOOM ATAU OPEN IN NEW TAB:
-
-    <p align="center">
-    <img src="https://github.com/user-attachments/assets/10940db5-0fb0-43d1-9376-f06959088ac3">
-       <img src="https://github.com/user-attachments/assets/12b3e57f-c8d5-4d4e-8fef-67e3624d9412">
-       <img src="https://github.com/user-attachments/assets/694b5f12-8320-4c62-98d2-7499ec0472bf"></p>
+    <img src="https://github.com/user-attachments/assets/c04c603e-1192-4a7d-a000-18b20589d9c1"></p>
     
 - Jika kalian membuka https://www.do.my.id/dashboard/#proyek/kelasws, kemudian data project tidak ditemukan seperti contoh ini:
 
     <p align="center">
-    <img src="https://github.com/user-attachments/assets/b57405d9-bb0a-4031-a5bb-815b7f3ebbd3" width="300"></p>
+    <img src="https://github.com/user-attachments/assets/b57405d9-bb0a-4031-a5bb-815b7f3ebbd3"></p>
  
 Berarti di menu project kalian kosong, seperti ini:
     <p align="center">
-    <img src="https://github.com/user-attachments/assets/fd291716-caea-47eb-b98b-52ae15ef2a15" width="300"></p>
+    <img src="https://github.com/user-attachments/assets/fd291716-caea-47eb-b98b-52ae15ef2a15"></p>
 
 - Solusi untuk project kosong:
 menuju link: https://www.do.my.id/dashboard/#proyek/lihat
 atau pada saat di dashboard, menuju menu proyek -> owner
 
     <p align="center">
-    <img src="https://github.com/user-attachments/assets/6418983e-6455-466a-ad74-15d560833079" width="300"></p>
+    <img src="https://github.com/user-attachments/assets/6418983e-6455-466a-ad74-15d560833079"></p>
  
 1. klik tombol "Add a new project", kemudian akan muncul pop up seperti pada gambar di atas
 2. Project Name: masukkan nama projek, apa saja bebas asalkan jangan ada spasi
@@ -41,23 +34,23 @@ atau pada saat di dashboard, menuju menu proyek -> owner
 
 - Contoh pengisian:
     <p align="center">
-    <img src="https://github.com/user-attachments/assets/8ca8fa18-1840-479a-991a-0fa89669107d" width="300"></p>
+    <img src="https://github.com/user-attachments/assets/8ca8fa18-1840-479a-991a-0fa89669107d"></p>
 - Akan muncul notifikasi sukses:
     <p align="center">
-    <img src="https://github.com/user-attachments/assets/324fb4f4-b17f-4dc7-a9e4-cc28164ecbca" width="300"></p>
+    <img src="https://github.com/user-attachments/assets/324fb4f4-b17f-4dc7-a9e4-cc28164ecbca"></p>
  
  - Kembali ke https://www.do.my.id/dashboard/#proyek/kelasws
-Perhatikan gambar dibawah ini, gambar ini adalah contoh bahwa tugas telah siap untuk di kirim
+Perhatikan gambar dibawah ini, gambar berikut adalah contoh bahwa tugas telah siap untuk di kirim
 
     <p align="center">
-    <img src="https://github.com/user-attachments/assets/5d115771-b133-492a-b905-c5481da3a509" width="300"></p>
+    <img src="https://github.com/user-attachments/assets/5d115771-b133-492a-b905-c5481da3a509"></p>
  
 - Dan jangan lupa untuk pilih kelas kalian
 *JIKA SALAH INPUT KELAS, DILUAR KENDALI SAYA, KALIAN HARUS MENGULANGI LAGI POMOKIT*
 
-- Gambar jika pengiriman tugas telah selesai:
+- Contoh jika pengiriman tugas telah selesai:
 
     <p align="center">
-    <img src= "https://github.com/user-attachments/assets/a37c3f09-c42b-4791-bca1-bacc8bec5810" width=300"></p>
+    <img src= "https://github.com/user-attachments/assets/a37c3f09-c42b-4791-bca1-bacc8bec5810"></p>
 
-- Selamat Mengerjakan
+- Selamat Mengerjakan & Semangat Terus!
