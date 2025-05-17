@@ -11,9 +11,9 @@ Tata Cara:
 - JIKA GAMBAR TERLALU KECIL BISA DI ZOOM ATAU OPEN IN NEW TAB:
 
     <p align="center">
-    <img src="https://github.com/user-attachments/assets/10940db5-0fb0-43d1-9376-f06959088ac3" width="300">
-       <img src="https://github.com/user-attachments/assets/12b3e57f-c8d5-4d4e-8fef-67e3624d9412" width="300">
-       <img src="https://github.com/user-attachments/assets/694b5f12-8320-4c62-98d2-7499ec0472bf" width="300"></p>
+    <img src="https://github.com/user-attachments/assets/10940db5-0fb0-43d1-9376-f06959088ac3">
+       <img src="https://github.com/user-attachments/assets/12b3e57f-c8d5-4d4e-8fef-67e3624d9412">
+       <img src="https://github.com/user-attachments/assets/694b5f12-8320-4c62-98d2-7499ec0472bf"></p>
     
 - Jika kalian membuka https://www.do.my.id/dashboard/#proyek/kelasws, kemudian data project tidak ditemukan seperti contoh ini:
 
